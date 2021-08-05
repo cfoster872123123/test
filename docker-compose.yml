@@ -1,0 +1,7 @@
+version: '3'
+services:
+  container:
+    build: .
+    environment:
+      MYSQL_PASS: 'NjEyZTVkM2M1YW'
+      RUNNING_IN_PRODUCTION: True
