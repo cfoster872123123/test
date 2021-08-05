@@ -6,3 +6,4 @@ services:
       MYSQL_PASS: 'NjEyZTVkM2M1YW'
       RUNNING_IN_PRODUCTION: True
       PASSWORD: 'passwordy33gy7uf561232193'
+      AWS_SECRET_ACCESS_KEY: 'g2rku8yz51szpcqbqof1hl74fdjjl05mmr8zpkd962ce'
